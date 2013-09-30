@@ -1,0 +1,13 @@
+messages:
+  
+  player_join_public: "&a<p> &6joined the lobby."
+  player_join_single: "&6You've joined the &a<game> &6lobby."
+  
+  player_leave_public: "&a<p> &6left the lobby."
+  player_leave_single: "&6You've left the &a<game> &6lobby."
+  
+  countdown_start: "&5Game will begin shortly."
+  countdown_cancel: "&4Countdown has been cancelled."
+  
+  game_start: "&6Game started!"
+  game_finish: "&6Game finished!"
